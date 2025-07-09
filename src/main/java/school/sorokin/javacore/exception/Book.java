@@ -16,7 +16,7 @@ public class Book {
         this.availableCopies = availableCopies;
     }
 
-    public String getTittle() {
+    public String getTitle() {
         return title;
     }
 
